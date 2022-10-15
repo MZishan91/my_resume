@@ -1,0 +1,3 @@
+my name is Mohammad Zishan 
+let c="codes-Kul"
+console.log(c);
